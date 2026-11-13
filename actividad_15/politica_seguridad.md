@@ -1,6 +1,4 @@
-# Política de Seguridad de la Información
-
-## Versión 1.0
+## Versión 1.1 - Actualización de política
 
 **Objetivo:** Proteger los activos de información de la empresa simulada.
 
@@ -14,3 +12,12 @@
 ## Responsable
 
 Área de Seguridad de la Información.
+
+Se incorporan las siguientes medidas:
+
+1. Revisar mensualmente los permisos de acceso.
+2. Deshabilitar oportunamente las cuentas de exempleados.
+3. Registrar los incidentes de seguridad detectados.
+4. Realizar copias de seguridad periódicas.
+5. Revisar y documentar los cambios en las políticas de seguridad# Política de Seguridad de la Información
+
